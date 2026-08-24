@@ -1,0 +1,17 @@
+name: Notify Discord
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'alerts/**'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send alert to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python3 scripts/send_discord.py alerts/latest.md
