@@ -21,9 +21,12 @@ def split_message(text):
         current_len = 0
 
     for line in lines:
+        is_section_heading = line.startswith("## ")
         line_len = len(line) + 1
-        if current and current_len + line_len > LIMIT:
+
+        if current and (is_section_heading or current_len + line_len > LIMIT):
             flush()
+
         current.append(line)
         current_len += line_len
 
