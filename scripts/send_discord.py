@@ -3,6 +3,34 @@ import os
 import json
 import urllib.request
 
+LIMIT = 1900
+
+
+def split_message(text):
+    lines = text.split("\n")
+    chunks = []
+    current = []
+    current_len = 0
+
+    def flush():
+        nonlocal current, current_len
+        if not current:
+            return
+        chunks.append("\n".join(current))
+        current = []
+        current_len = 0
+
+    for line in lines:
+        line_len = len(line) + 1
+        if current and current_len + line_len > LIMIT:
+            flush()
+        current.append(line)
+        current_len += line_len
+
+    flush()
+    return [c for c in chunks if c.strip()]
+
+
 def main():
     if len(sys.argv) < 2:
         print("Usage: send_discord.py <file>")
@@ -25,8 +53,7 @@ def main():
         print("DISCORD_WEBHOOK_URL not set")
         sys.exit(1)
 
-    limit = 1900
-    chunks = [text[i:i + limit] for i in range(0, len(text), limit)] or [""]
+    chunks = split_message(text) or [""]
 
     for i, chunk in enumerate(chunks):
         payload = json.dumps({
