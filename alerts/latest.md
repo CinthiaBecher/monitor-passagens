@@ -39,6 +39,3 @@ Todas as 5 opções mais baratas são para **Orlando (MCO)** — Miami (MIA) fic
 
 ## 🌴 Nota sobre a época
 Fevereiro não é temporada de furacões no Atlântico (oficial: 1º jun a 30 nov) — clima ameno/seco esperado na Flórida. O Carnaval 2027 cai em 09/02 (terça-feira), bem dentro da janela de busca — pode encarecer/lotar voos saindo do Brasil na semana anterior (~5 a 10/fev). O Presidents' Day (15/02/2027) pode aumentar o movimento em parques/hotéis no fim de semana ao redor dessa data. Sem férias escolares americanas relevantes em fevereiro (spring break só em março) — período tende a ser mais tranquilo que dezembro/janeiro fora dessas duas janelas pontuais.
-
-## 💳 Milhas e promoções
-Varredura de notícias (não é cotação exata): não foi encontrada nenhuma promoção de transferência com bônus ativa especificamente para esta janela agora. Historicamente, o período pré-Carnaval (janeiro/fevereiro) costuma concentrar as campanhas mais generosas de transferência de pontos (bancos → Smiles/LATAM Pass/TudoAzul), com bônus na faixa de 30-100%+ em picos. Vale acompanhar Livelo, Smiles e LATAM Pass nas próximas semanas.
