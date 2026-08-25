@@ -1,44 +1,48 @@
-# ✈️ Monitor de Passagens POA — 25/08/2026 07:38
-(preços já são da viagem completa ida+volta, por pessoa)
+# ✈️ Monitor de Passagens POA — 25/08/2026 07:40
+(preços por pessoa, viagem completa ida+volta, 2 adultos)
 
 ## Econômica
-```
-Dest #  R$/pax   Cia               Ida           Volta         Esc(I/V)
-MCO  1  3.636    Gol               26/02 18:40   11/03 12:15   2/1
-MCO  2  3.636    Gol               26/02 18:40   11/03 08:30   2/1
-MCO  3  3.655    Gol               26/02 18:40   16/03 12:15   2/1
-MCO  4  3.825    Copa Airlines     26/02 01:35   11/03 12:15   1/1
-MCO  5  3.825    Copa Airlines     26/02 01:35   11/03 08:30   1/1
-MIA  1  3.878    Avianca           02/02 14:15   17/02 11:00   2/2
-MIA  2  3.878    Avianca           01/02 14:15   17/02 11:00   2/2
-MIA  3  3.943    Avianca           03/02 14:15   17/02 11:00   2/2
-MIA  4  3.982    Azul              24/02 18:40   11/03 06:40   2/1
-MIA  5  3.987    Avianca           02/02 14:15   20/02 10:15   2/2
-FLL  1  4.654    LATAM             05/02 03:30   17/02 09:05   2/2
-FLL  2  5.131    Azul              27/02 19:40   12/03 22:10   1/1
-FLL  3  5.131    Azul              25/02 19:40   12/03 22:10   1/1
-FLL  4  5.131    Azul              25/02 19:40   11/03 22:10   1/1
-FLL  5  5.131    Azul              24/02 19:40   12/03 22:10   1/1
-```
-Mais barata (MCO, R$3.636/pax): https://kiwi.com/u/rzwjhq
+
+**Orlando (MCO)**
+1. R$ 3.636/pax — Gol — Ida 26/02 18:40 (2 escalas) → Volta 11/03 12:15 (1 escala)
+2. R$ 3.636/pax — Gol — Ida 26/02 18:40 (2 escalas) → Volta 11/03 08:30 (1 escala)
+3. R$ 3.655/pax — Gol — Ida 26/02 18:40 (2 escalas) → Volta 16/03 12:15 (1 escala)
+4. R$ 3.655/pax — Gol — Ida 26/02 18:40 (2 escalas) → Volta 10/03 12:15 (1 escala)
+5. R$ 3.655/pax — Gol — Ida 26/02 18:40 (2 escalas) → Volta 15/03 08:30 (1 escala)
+
+**Miami (MIA)**
+1. R$ 3.878/pax — Avianca — Ida 01/02 14:15 (2 escalas) → Volta 17/02 11:00 (2 escalas)
+2. R$ 3.878/pax — Avianca — Ida 02/02 14:15 (2 escalas) → Volta 17/02 11:00 (2 escalas)
+3. R$ 3.943/pax — Avianca — Ida 03/02 14:15 (2 escalas) → Volta 17/02 11:00 (2 escalas)
+4. R$ 3.982/pax — Azul — Ida 24/02 18:40 (2 escalas) → Volta 11/03 06:40 (1 escala)
+5. R$ 3.987/pax — Avianca — Ida 02/02 14:15 (2 escalas) → Volta 20/02 10:15 (2 escalas)
+
+**Fort Lauderdale (FLL)**
+1. R$ 4.654/pax — LATAM/Avianca — Ida 05/02 03:30 (2 escalas) → Volta 17/02 09:05 (2 escalas)
+2. R$ 5.131/pax — Azul — Ida 26/02 19:40 (1 escala) → Volta 11/03 22:10 (1 escala)
+3. R$ 5.131/pax — Azul — Ida 22/02 19:40 (1 escala) → Volta 07/03 22:10 (1 escala)
+4. R$ 5.131/pax — Azul — Ida 24/02 19:40 (1 escala) → Volta 07/03 22:10 (1 escala)
+5. R$ 5.131/pax — Azul — Ida 26/02 19:40 (1 escala) → Volta 10/03 22:10 (1 escala)
 
 ## Premium Economy
-```
-Dest #  R$/pax   Cia               Ida           Volta         Esc(I/V)
-MCO  1  13.994   Aerolineas Arg.   04/02 21:05   21/02 20:15   2/3
-MCO  2  14.304   Aerolineas Arg.   13/02 08:25   04/03 20:10   3/3
-MCO  3  14.304   Aerolineas Arg.   13/02 08:25   04/03 20:10   3/3
-MCO  4  14.371   Aerolineas Arg.   07/02 21:05   27/02 07:30   3/3
-MCO  5  14.371   Aerolineas Arg.   16/02 21:05   06/03 07:30   3/3
-MIA  1  13.202   Aerolineas Arg.   14/02 21:05   04/03 20:10   1/3
-MIA  2  13.999   Aerolineas Arg.   09/02 21:05   23/02 20:10   1/1
-MIA  3  14.014   Aerolineas Arg.   14/02 21:05   27/02 07:30   1/2
-MIA  4  14.032   Aerolineas Arg.   04/02 21:05   16/02 20:10   1/1
-MIA  5  14.083   Aerolineas Arg.   04/02 21:05   20/02 07:30   1/2
-FLL  1  17.081   Aerolineas Arg.   13/02 08:25   27/02 07:30   3/3
-FLL  2  17.484   Aerolineas Arg.   13/02 08:25   28/02 20:15   3/3
-FLL  3  17.633   Aerolineas Arg.   13/02 08:25   04/03 20:10   3/3
-FLL  4  17.805   Aerolineas Arg.   13/02 08:25   04/03 20:10   3/3
-FLL  5  17.835   Aerolineas Arg.   13/02 08:25   04/03 20:10   3/3
-```
-Mais barata (MIA, R$13.202/pax): https://kiwi.com/u/hd9ssg
+
+**Orlando (MCO)**
+1. R$ 14.043/pax — Aerolineas Arg. — Ida 04/02 21:05 (2 escalas) → Volta 21/02 20:15 (3 escalas)
+2. R$ 14.304/pax — Aerolineas Arg. — Ida 13/02 08:25 (3 escalas) → Volta 04/03 20:10 (3 escalas)
+3. R$ 14.304/pax — Aerolineas Arg. — Ida 13/02 08:25 (3 escalas) → Volta 04/03 20:10 (3 escalas)
+4. R$ 14.371/pax — Aerolineas Arg. — Ida 16/02 21:05 (3 escalas) → Volta 06/03 07:30 (3 escalas)
+5. R$ 14.371/pax — Aerolineas Arg. — Ida 07/02 21:05 (3 escalas) → Volta 27/02 07:30 (3 escalas)
+
+**Miami (MIA)**
+1. R$ 13.202/pax — Aerolineas Arg. — Ida 14/02 21:05 (1 escala) → Volta 04/03 20:10 (3 escalas)
+2. R$ 13.999/pax — Aerolineas Arg. — Ida 09/02 21:05 (1 escala) → Volta 23/02 20:10 (1 escala)
+3. R$ 14.014/pax — Aerolineas Arg. — Ida 14/02 21:05 (1 escala) → Volta 27/02 07:30 (2 escalas)
+4. R$ 14.032/pax — Aerolineas Arg. — Ida 04/02 21:05 (1 escala) → Volta 16/02 20:10 (1 escala)
+5. R$ 14.083/pax — Aerolineas Arg. — Ida 04/02 21:05 (1 escala) → Volta 20/02 07:30 (2 escalas)
+
+**Fort Lauderdale (FLL)**
+1. R$ 17.081/pax — Aerolineas Arg. — Ida 13/02 08:25 (3 escalas) → Volta 27/02 07:30 (3 escalas)
+2. R$ 17.484/pax — Aerolineas Arg. — Ida 13/02 08:25 (3 escalas) → Volta 28/02 20:15 (3 escalas)
+3. R$ 17.633/pax — Aerolineas Arg. — Ida 13/02 08:25 (3 escalas) → Volta 04/03 20:10 (3 escalas)
+4. R$ 17.805/pax — Aerolineas Arg. — Ida 13/02 08:25 (3 escalas) → Volta 04/03 20:10 (3 escalas)
+5. R$ 17.835/pax — Aerolineas Arg. — Ida 13/02 08:25 (3 escalas) → Volta 04/03 20:10 (3 escalas)
